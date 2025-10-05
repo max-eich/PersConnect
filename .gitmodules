@@ -1,6 +1,6 @@
 [submodule "Backend"]
 	path = Backend
-	url = git@github.com:max-eich/Backend.git
+	url = https://github.com/max-eich/PersConnect-Backend.git
 [submodule "Frontend"]
 	path = Frontend
-	url = git@github.com:max-eich/Frontend.git
+	url = https://github.com/max-eich/PersConnect-Frontend.git
