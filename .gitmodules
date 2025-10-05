@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:max-eich/Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:max-eich/Frontend.git
